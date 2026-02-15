@@ -40,12 +40,7 @@ You don't need to guess error rates. Just set your **Target WPM**.
 5. Press Enter.
 6. Look for the **MT Bot v8** panel on the screen.
 
-### Option 2: Tampermonkey / Greasemonkey (Permanent)
-1. Install the extension.
-2. Create a new script.
-3. Copy the header from `monkeytype_bot_user.js`.
-4. Paste the code from `script.js` below the header.
-5. Save. The bot will load automatically.
+ 
 
 ---
 
