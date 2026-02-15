@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Monkeytype Bot v8 (Human Pattern)
-// @namespace    https://github.com/sensejke/monkeytype-bot
+// @namespace    https://github.com/sensejke/Monkeytype-leaderboards-script
 // @version      8.2
 // @description  Top-tier invisible bot for Monkeytype with auto-humanizer, target WPM, and anti-ban features.
 // @author       sensejke
@@ -1326,4 +1326,5 @@
     );
 })();
 console.log('Use the script.js content for the full bot code.');
+
 
